@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a Research Fellow in Geospatial Data Science at the Curtin for Agribusiness Profitability (C4AP) of the Centre for Crop and Disease Management, Curtin University. I lead and support the C4AP data scientists and analysts in the development of different data pipelines (i.e., ingestion, cleaning, and visualization) to build the Agri-analytics Hub for the Western Australian grain farmers.
+
+I received a PhD (by Research) in Environmental Science from the University of the Philippines Los Baños (UPLB). Prior to joining Curtin, I am an Associate Professor at the Department of Community and Environmental Resource Planning (DCERP), College of Human Ecology (CHE), UPLB. I am the founding Editor-in-Chief of the Journal of Human Ecology and Sustainability. I also serve as reviewer for numerous journals and sit on the editorial board of SN Social Sciences, PeerJ, and Spatial Information Research.
+
 <!--
 **arsalvacion/arsalvacion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
