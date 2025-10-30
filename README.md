@@ -20,6 +20,11 @@ My researches have tackled various United Nations (UN) Sustainable Development G
 <a href="https://sdgs.un.org/goals/goal7"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/d0c982da-b316-4f6f-958c-fec2efc41b60" /></a>
 <a href="https://sdgs.un.org/goals/goal8"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/50b6decb-3fb0-41f6-bdf7-05d39a0455c9" /></a>
 <a href="https://sdgs.un.org/goals/goal10"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/6a90d280-bbbc-447d-8384-8fc438fee391" /></a>
+<a href="https://sdgs.un.org/goals/goal11"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/0c73ccc6-4035-4b26-9f83-309ec79a43dc"/></a>
+<a href="https://sdgs.un.org/goals/goal12"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/432e69bb-48c2-452a-ae28-3d5a986ca0b0"/></a>
+<a href="https://sdgs.un.org/goals/goal13"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/c126684f-6b60-4c8c-801b-4da2463d83f2"/></a>
+
+
 
 
 
