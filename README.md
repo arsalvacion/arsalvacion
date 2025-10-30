@@ -8,6 +8,7 @@ Prior to joining Curtin, I am an Associate Professor at the Department of Commun
 I am the founding Editor-in-Chief of the Journal of Human Ecology and Sustainability. I also serve as reviewer for numerous journals and sit on the editorial board of SN Social Sciences, PeerJ, and Spatial Information Research.
 
 🌏 Webpage: <a href="https://arsalvacion.github.io/">arsalvacion.github.io</a><br>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/arnold-salvacion-98166949/">LinkedIn</a><br>
 📚 Publications: <a href= "https://scholar.google.com/citations?user=OH852c8AAAAJ&hl=en">Google Scholar</a><br>
 
 ## SDG Impact
