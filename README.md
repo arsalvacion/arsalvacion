@@ -7,6 +7,13 @@ I received a PhD (by Research) in Environmental Science from the University of t
 Prior to joining Curtin, I am an Associate Professor at the Department of Community and Environmental Resource Planning (DCERP), College of Human Ecology (CHE), UPLB. 
 I am the founding Editor-in-Chief of the Journal of Human Ecology and Sustainability. I also serve as reviewer for numerous journals and sit on the editorial board of SN Social Sciences, PeerJ, and Spatial Information Research.
 
+🌎 Webpage: <a href="https://arsalvacion.github.io/">arsalvacion.github.io</a><br>
+📚 Publications: <a href= "https://scholar.google.com/citations?user=OH852c8AAAAJ&hl=en">Google Scholar</a><br>
+
+
+
+
+
 <!--
 **arsalvacion/arsalvacion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
