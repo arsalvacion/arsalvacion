@@ -15,6 +15,11 @@ My researches have tackled various United Nations (UN) Sustainable Development G
 
 <a href="https://sdgs.un.org/goals/goal1"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/cabb0b37-e7e4-4e3a-938d-161801a349ad"/></a>
 <a href="https://sdgs.un.org/goals/goal2"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/2ad4270c-f4f7-4bac-9f6b-407f55d85d12" /></a>
+<a href="https://sdgs.un.org/goals/goal3"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/8e2fe84a-41c7-4c4c-aab1-38cb45fb57b7" /></a>
+<a href="https://sdgs.un.org/goals/goal4"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/6502b7e9-19b1-407e-b2de-070453e6d49c" /></a>
+
+
+
 
 
 <!--
