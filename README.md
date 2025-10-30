@@ -13,7 +13,7 @@ I am the founding Editor-in-Chief of the Journal of Human Ecology and Sustainabi
 ### SDG Impact
 My researches have tackled various United Nations (UN) Sustainable Development Goals (SDGs). 
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cabb0b37-e7e4-4e3a-938d-161801a349ad" />
+<a href="https://sdgs.un.org/goals/goal1"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cabb0b37-e7e4-4e3a-938d-161801a349ad"/></a>
 
 <!--
 **arsalvacion/arsalvacion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
