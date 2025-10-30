@@ -10,7 +10,7 @@ I am the founding Editor-in-Chief of the Journal of Human Ecology and Sustainabi
 🌎 Webpage: <a href="https://arsalvacion.github.io/">arsalvacion.github.io</a><br>
 📚 Publications: <a href= "https://scholar.google.com/citations?user=OH852c8AAAAJ&hl=en">Google Scholar</a><br>
 
-### SDG Impact
+## SDG Impact
 My researches have tackled various United Nations (UN) Sustainable Development Goals (SDGs). 
 
 <a href="https://sdgs.un.org/goals/goal1"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/cabb0b37-e7e4-4e3a-938d-161801a349ad"/></a>
