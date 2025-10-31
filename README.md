@@ -12,7 +12,7 @@ I am the founding Editor-in-Chief of the Journal of Human Ecology and Sustainabi
 📚 Publications: <a href= "https://scholar.google.com/citations?user=OH852c8AAAAJ&hl=en">Google Scholar</a><br>
 
 ## SDG Impact
-My researches have tackled various United Nations (UN) Sustainable Development Goals (SDGs). 
+My researches have tackled various United Nations (UN) Sustainable Development Goals (SDGs) (see below).
 
 <a href="https://sdgs.un.org/goals/goal1"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/cabb0b37-e7e4-4e3a-938d-161801a349ad"/></a>
 <a href="https://sdgs.un.org/goals/goal2"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/2ad4270c-f4f7-4bac-9f6b-407f55d85d12" /></a>
