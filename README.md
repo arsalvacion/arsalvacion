@@ -14,6 +14,7 @@ I am the founding Editor-in-Chief of the Journal of Human Ecology and Sustainabi
 ## SDG Impact
 My researches have tackled various United Nations (UN) Sustainable Development Goals (SDGs) (see below).
 
+<div style="display:flex; gap:12px; align-items:center;">
 <a href="https://sdgs.un.org/goals/goal1"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/cabb0b37-e7e4-4e3a-938d-161801a349ad"/></a>
 <a href="https://sdgs.un.org/goals/goal2"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/2ad4270c-f4f7-4bac-9f6b-407f55d85d12" /></a>
 <a href="https://sdgs.un.org/goals/goal3"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/8e2fe84a-41c7-4c4c-aab1-38cb45fb57b7" /></a>
@@ -26,7 +27,7 @@ My researches have tackled various United Nations (UN) Sustainable Development G
 <a href="https://sdgs.un.org/goals/goal13"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/c126684f-6b60-4c8c-801b-4da2463d83f2"/></a>
 <a href="https://sdgs.un.org/goals/goal14"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/e47f3b8a-8144-4616-b900-bdff64c7c682" /></a>
 <a href="https://sdgs.un.org/goals/goal16"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/5f71547f-a07d-400e-bc60-84a48b37cc2c" /></a>
-
+</div>
 <!--
 **arsalvacion/arsalvacion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
