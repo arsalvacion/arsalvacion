@@ -27,17 +27,6 @@ My researches have tackled various United Nations (UN) Sustainable Development G
 <a href="https://sdgs.un.org/goals/goal14"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/e47f3b8a-8144-4616-b900-bdff64c7c682" /></a>
 <a href="https://sdgs.un.org/goals/goal16"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/5f71547f-a07d-400e-bc60-84a48b37cc2c" /></a>
 
-
-
-
-
-
-
-
-
-
-
-
 <!--
 **arsalvacion/arsalvacion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
