@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-I am Arnold, a Research Fellow in Geospatial Data Science at the Soil-Borne Disease Initiative (SBDI) Program 2 of the Centre for Crop and Disease Management, Curtin University. My current research focuses on developing, testing and validating a spatial data analytics pipeline to map within-paddock soil-borne disease risk in Australian grain-growing systems.
+I am Arnold, a Research Fellow in Geospatial Data Science with the Soil-Borne Disease Initiative (SBDI) Program 2 at Curtin University's Centre for Crop and Disease Management. My research focuses on developing and validating spatial data analytics approaches for mapping within-paddock soil-borne disease risk in Australian grain-growing systems.
 
-I received a PhD (by Research) in Environmental Science from the University of the Philippines Los Baños (UPLB). 
-Prior to joining Curtin, I am an Associate Professor at the Department of Community and Environmental Resource Planning (DCERP), College of Human Ecology (CHE), UPLB. 
-I am the founding Editor-in-Chief of the Journal of Human Ecology and Sustainability. I also serve as reviewer for numerous journals and sit on the editorial board of SN Social Sciences, PeerJ, and Spatial Information Research.
+I received my PhD in Environmental Science from the University of the Philippines Los Baños (UPLB). Prior to joining Curtin University, I was an Associate Professor in the Department of Community and Environmental Resource Planning (DCERP), College of Human Ecology (CHE), UPLB. I am the founding Editor-in-Chief of the Journal of Human Ecology and Sustainability. I also serve as a reviewer for several academic journals and as an editorial board member of SN Social Sciences, PeerJ, and Spatial Information Research.
 
 🌏 Webpage: <a href="https://arsalvacion.github.io/">arsalvacion.github.io</a><br>
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/arnold-salvacion-98166949/">LinkedIn</a><br>
