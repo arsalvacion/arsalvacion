@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I am Arnold, a Research Fellow in Geospatial Data Science at the Curtin for Agribusiness Profitability (C4AP) of the Centre for Crop and Disease Management, Curtin University. 
-I lead and support the C4AP data scientists and analysts in the development of different data pipelines (i.e., ingestion, cleaning, and visualization) to build the Agri-analytics Hub for the Western Australian grain farmers.
+I am Arnold, a Research Fellow in Geospatial Data Science at the Soil-Borne Disease Initiative (SBDI) Program 2 of the Centre for Crop and Disease Management, Curtin University. My current research focuses on developing, testing and validating a spatial data analytics pipeline to map within-paddock soil-borne disease risk in Australian grain-growing systems.
 
 I received a PhD (by Research) in Environmental Science from the University of the Philippines Los Baños (UPLB). 
 Prior to joining Curtin, I am an Associate Professor at the Department of Community and Environmental Resource Planning (DCERP), College of Human Ecology (CHE), UPLB. 
